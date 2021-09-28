@@ -9,3 +9,7 @@ Updates made on master before rebase
 
 The purpose of this file is to provide examples
 on how to use Git and Github together.
+
+## Getting started
+
+To get started, just `clone` the repository.
